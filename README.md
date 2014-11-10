@@ -1,4 +1,4 @@
 Dynamite-Git-Example
 ====================
 
-A throwaway tutorial for Git by Dynamite team
+A throwaway change for experimental repo for Git tutorial

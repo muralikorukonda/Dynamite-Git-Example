@@ -1,4 +1,4 @@
 Dynamite-Git-Example
 ====================
 
-<Lets start learning git together>
+A throwaway tutorial for Git by Dynamite team
